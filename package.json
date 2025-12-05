@@ -1,0 +1,20 @@
+{
+  "name": "anonymous-epidemic-tracker",
+  "version": "1.0.0",
+  "description": "Privacy-preserving health monitoring system using FHEVM",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server . -p 3000 -c-1 --cors",
+    "build": "echo 'Static build complete'",
+    "start": "npx http-server . -p 8080 -c-1 --cors"
+  },
+  "keywords": [
+    "blockchain",
+    "healthcare",
+    "privacy",
+    "fhevm",
+    "epidemic-tracking"
+  ],
+  "author": "",
+  "license": "MIT"
+}
