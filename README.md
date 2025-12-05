@@ -27,6 +27,10 @@
 
 **Anonymous Epidemic Tracker** is a fully functional FHEVM-based smart contract that enables privacy-preserving health data collection during epidemic outbreaks. The system allows individuals to report encrypted health metrics (symptom scores and exposure levels) while enabling health authorities to analyze aggregated trends without accessing individual data.
 
+Demo Video: Anonymous Epidemic Tracker.mp4 https://streamable.com/xon41z 
+
+Live : https://anonymous-epidemic-tracker.vercel.app/
+
 ### Problem Statement
 
 During epidemics, public health officials need aggregated data to make informed decisions, but individuals are concerned about privacy. Traditional systems expose individual health information, creating privacy risks and reducing participation.
