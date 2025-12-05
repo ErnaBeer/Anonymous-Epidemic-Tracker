@@ -1,0 +1,7 @@
+{
+  "name": "Anonymous Epidemic Tracker",
+  "description": "Privacy-preserving health monitoring system using FHEVM encryption",
+  "homepage": "https://anonymous-epidemic-tracker.vercel.app",
+  "keywords": ["healthcare", "privacy", "blockchain", "fhevm", "epidemic-tracking"],
+  "license": "MIT"
+}
